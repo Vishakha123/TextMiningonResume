@@ -4,4 +4,4 @@ I have tried to scrape my txt resume and highlight my skills. Word cloud of skil
 A small report on the same is also added.
 
 
-![Alt text](/Vishakha123/TextMiningonResume/resume_wordcloud.png?raw=true "Optional Title")
+
